@@ -1,11 +1,6 @@
----
-title: "R programming"
-output:
-  html_document:
-    toc: true
-    fig_caption: true
-    css: styles.css
----
+# Author: Tamba Fayiah
+
+$$ Date: 14 March 20205 $$
 
 # This is a r make down
 
